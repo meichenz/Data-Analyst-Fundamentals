@@ -1,7 +1,7 @@
 ### displays the current directory
 pwd
 
-# current time 
+### current time 
 date
 
 ### navigate to a directory 
