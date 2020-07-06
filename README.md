@@ -6,7 +6,6 @@
 #### Unix commands 
 * Basic script sample
 * Vim navigation and editing
-* Common practice for analytics
 
 #### SAS EG
 * Navigation & click and drop tools
