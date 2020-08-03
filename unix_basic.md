@@ -19,7 +19,7 @@ ls -la
 mkdir DIRNAME 
 
 ### change privilege 
-chmod -R 777 FILE/FOLDER
+chmod -R 777 FILE/FOLDERNAME
 
 ### check space taken 
 df
